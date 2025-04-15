@@ -31,7 +31,7 @@ public class Orientaciones : MonoBehaviour
             Debug.Log("Error. Aún estás en el ciclo básico");
         } 
 
-        Debug.Log("Muchas Gracias " + nombreAlumno);
+        Debug.Log("Muchas Gracias " + nombreAlumno + "!");
 
     }
 
